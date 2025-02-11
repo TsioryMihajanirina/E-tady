@@ -1,0 +1,680 @@
+INFO - 2024-10-17 06:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 06:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 06:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 06:38:18 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 06:38:18 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 15:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 15:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 15:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 15:58:28 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 15:58:28 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 15:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 15:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 15:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 15:59:44 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 15:59:45 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:00:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 16:00:16 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:00:17 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 16:04:08 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:04:08 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:04:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 16:16:40 --> ErrorException: Undefined variable $data
+[Method: POST, Route: filter]
+in APPPATH\Controllers\Post.php on line 193.
+ 1 APPPATH\Controllers\Post.php(193): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Controllers\\Post.php', 193)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Post->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:17:49 --> ErrorException: Undefined array key "posts"
+[Method: POST, Route: filter]
+in APPPATH\Controllers\Post.php on line 194.
+ 1 APPPATH\Controllers\Post.php(194): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "posts"', 'C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Controllers\\Post.php', 194)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Post->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:19:16 --> ErrorException: Undefined variable $data
+[Method: POST, Route: filter]
+in APPPATH\Controllers\Post.php on line 184.
+ 1 APPPATH\Controllers\Post.php(184): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Controllers\\Post.php', 184)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Post->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 16:19:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:19:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 16:20:21 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:20:22 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:21:10 --> Error: Call to undefined function App\Controllers\vardump()
+[Method: POST, Route: filter]
+in APPPATH\Controllers\Post.php on line 196.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Post->filter()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:21:32 --> ErrorException: Array to string conversion
+[Method: POST, Route: filter]
+in APPPATH\Controllers\Post.php on line 196.
+ 1 APPPATH\Controllers\Post.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Controllers\\Post.php', 196)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Post->filter()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 16:28:03 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:28:03 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 16:28:59 --> Error: Cannot use object of type App\Models\PublicationModel as array
+[Method: POST, Route: filter]
+in APPPATH\Controllers\Post.php on line 186.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Post->filter()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 16:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 16:30:56 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 16:30:57 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 16:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 17:37:04 --> Error: Class "App\Controllers\Model" not found
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile_controller.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Controllers\\Profile_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Profile_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Profile_controller')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Profile_controller', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 17:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 17:42:46 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 17:42:46 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 17:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 17:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:00:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:19:01 --> ErrorException: Undefined array key "email"
+[Method: GET, Route: profile]
+in APPPATH\Views\profile_view.php on line 124.
+ 1 APPPATH\Views\profile_view.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Views\\profile_view.php', 124)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Views\\profile_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('profile_view', [], true)
+ 5 APPPATH\Controllers\Profile_controller.php(26): view('profile_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-17 18:20:37 --> mysqli_sql_exception: Unknown column 'utilisateur.email' in 'field list' in C:\Users\Administrateur\Desktop\e-tady\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\Users\Administrateur\Desktop\e-tady\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `utilisa...', 0)
+#1 C:\Users\Administrateur\Desktop\e-tady\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `utilisa...')
+#2 C:\Users\Administrateur\Desktop\e-tady\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `utilisa...')
+#3 C:\Users\Administrateur\Desktop\e-tady\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `utilisa...', Array, false)
+#4 C:\Users\Administrateur\Desktop\e-tady\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Administrateur\Desktop\e-tady\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\Users\Administrateur\Desktop\e-tady\app\Controllers\Profile_controller.php(19): CodeIgniter\BaseModel->first()
+#7 C:\Users\Administrateur\Desktop\e-tady\system\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+#8 C:\Users\Administrateur\Desktop\e-tady\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+#9 C:\Users\Administrateur\Desktop\e-tady\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Administrateur\Desktop\e-tady\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Administrateur\Desktop\e-tady\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\Administrateur\Desktop\e-tady\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\Users\Administrateur\Desktop\e-tady\system\rewrite.php(44): require_once('C:\\Users\\Admini...')
+#14 {main}
+CRITICAL - 2024-10-17 18:20:37 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'utilisateur.email' in 'field list'
+[Method: GET, Route: profile]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `utilisateurs`.`id`, `utilisateurs`.`username`, `utilisateur`.`email`
+FROM `utilisateurs`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Profile_controller.php(19): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 18:20:37 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'utilisateur.email' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `utilisateurs`.`id`, `utilisateurs`.`username`, `utilisateur`.`email`
+FROM `utilisateurs`
+WHERE `id` = \'3\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `utilisateurs`.`id`, `utilisateurs`.`username`, `utilisateur`.`email`
+FROM `utilisateurs`
+WHERE `id` = \'3\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `utilisateurs`.`id`, `utilisateurs`.`username`, `utilisateur`.`email`
+FROM `utilisateurs`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Controllers\Profile_controller.php(19): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 18:20:37 --> [Caused by] mysqli_sql_exception: Unknown column 'utilisateur.email' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `utilisateurs`.`id`, `utilisateurs`.`username`, `utilisateur`.`email`
+FROM `utilisateurs`
+WHERE `id` = \'3\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `utilisateurs`.`id`, `utilisateurs`.`username`, `utilisateur`.`email`
+FROM `utilisateurs`
+WHERE `id` = \'3\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `utilisateurs`.`id`, `utilisateurs`.`username`, `utilisateur`.`email`
+FROM `utilisateurs`
+WHERE `id` = \'3\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `utilisateurs`.`id`, `utilisateurs`.`username`, `utilisateur`.`email`
+FROM `utilisateurs`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Profile_controller.php(19): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:27:14 --> ErrorException: Undefined array key "telephone"
+[Method: GET, Route: profile]
+in APPPATH\Views\profile_view.php on line 133.
+ 1 APPPATH\Views\profile_view.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "telephone"', 'C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Views\\profile_view.php', 133)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Views\\profile_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('profile_view', [], true)
+ 5 APPPATH\Controllers\Profile_controller.php(26): view('profile_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:29:45 --> ErrorException: Undefined array key "telephone"
+[Method: GET, Route: profile]
+in APPPATH\Views\profile_view.php on line 133.
+ 1 APPPATH\Views\profile_view.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "telephone"', 'C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Views\\profile_view.php', 133)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Views\\profile_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('profile_view', [], true)
+ 5 APPPATH\Controllers\Profile_controller.php(26): view('profile_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:34:50 --> ErrorException: Undefined array key "created_ad"
+[Method: GET, Route: profile]
+in APPPATH\Views\profile_view.php on line 138.
+ 1 APPPATH\Views\profile_view.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "created_ad"', 'C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Views\\profile_view.php', 138)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\Administrateur\\Desktop\\e-tady\\app\\Views\\profile_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('profile_view', [], true)
+ 5 APPPATH\Controllers\Profile_controller.php(26): view('profile_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:38:07 --> Error: Call to a member function count() on array
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile_controller.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:40:50 --> Error: Call to a member function count_all_results() on array
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile_controller.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:41:23 --> BadMethodCallException: Call to undefined method App\Models\PublicationModel::count_all_results
+[Method: GET, Route: profile]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Profile_controller.php(17): CodeIgniter\Model->__call('count_all_results', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:41:43 --> Error: Call to a member function count_all_results() on array
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile_controller.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:43:27 --> Error: Call to a member function count_all_results() on array
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile_controller.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:43:47 --> BadMethodCallException: Call to undefined method App\Models\PublicationModel::count_all_results
+[Method: GET, Route: profile]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Profile_controller.php(17): CodeIgniter\Model->__call('count_all_results', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:44:01 --> Error: Call to a member function count_all_results() on array
+[Method: GET, Route: profile]
+in APPPATH\Controllers\Profile_controller.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:44:57 --> BadMethodCallException: Call to undefined method App\Models\PublicationModel::count_all_results
+[Method: GET, Route: profile]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Profile_controller.php(17): CodeIgniter\Model->__call('count_all_results', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 18:58:21 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 18:58:21 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 18:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 18:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:10:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-17 19:15:05 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_bfd98b1235a818519439.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_bfd98b1235a818519439.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+CRITICAL - 2024-10-17 19:15:06 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "C:\Users\Aina Fitiavana\Desktop\e-tady\writable\uploads"
+[Method: GET, Route: C:%5CUsers%5CAina%20Fitiavana%5CDesktop%5Ce-tady%5Cwritable%5Cuploads/20241013/1728844014_e1b431869285d0c5e75d.jpg]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('C:\\Users\\Aina Fitiavana\\Desktop\\e-tady\\writable\\uploads/20241013/1728844014_e1b431869285d0c5e75d.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrateur\\Desktop\\e-tady\\public\\index.php')
+INFO - 2024-10-17 19:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-17 19:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

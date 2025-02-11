@@ -1,0 +1,68 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+} */
+
+.post-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin: 20px auto;
+    /* max-width: 300px; */
+    width: 60%;
+    transition: transform 0.2s;
+}
+
+.post-card:hover {
+    transform: scale(1.02);
+}
+
+.post-card-image {
+    width: 100%;
+    height: auto;
+    max-height: 50vh;
+    object-fit: fill;
+    border-bottom: 2px rgba(128, 128, 128, 0.146) solid;
+    background-color: #F2F0E9;
+}
+
+.post-card-content {
+    padding: 15px;
+    /* color: #401C07; */
+    /* background-color: #F2F0E9; */
+}
+
+.post-card-title {
+    font-size: 1.5em;
+    margin: 0 0 5% 0;
+}
+
+.post-card-description {
+    font-size: 1em;
+    color: #555;  
+}
+
+.post-card-button {
+    background-color: #D96725;
+    color: white;
+    margin: 5% 0 0 0;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.post-card-button:hover {
+    background-color: #f4742a;
+}
+.bouton-maj{
+    background-color: rgba(64, 28, 7, 0.4);
+    color: white
+}
+.bouton-supprimer{
+    background-color: rgba(217, 103, 37, 0.4);
+}
